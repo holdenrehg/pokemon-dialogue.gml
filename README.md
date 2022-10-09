@@ -2,4 +2,4 @@
 
 Prototype of Pokemon style dialogue using an external JSON file.
 
-![screenshot](/screenshot.png)
+![example video](/example.gif)
